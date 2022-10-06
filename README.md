@@ -1,2 +1,3 @@
 # RESTRO
-Restro is a restaurant  website  made with html, CSS &amp;little bit of js
+Restro is a one page site for a restaurant 
+made with html, CSS &amp;little bit of js

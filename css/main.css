@@ -920,6 +920,17 @@ color: #E8AA42;
 		font-size: 1.7rem;
 		}
 }
+@media screen and (max-width: 1440px){
+	.home .home-slider .slide
+	{
+		text-align: center;
+		height: 90vh;
+	}
+	.home .home-slider .slide .content-box h1
+	{
+		font-size: 4.8rem;
+	}
+}
 @media only screen and (min-width: 1200px) and (max-width: 1380px) {
 	.content-box{
 	text-align: center;
